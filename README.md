@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋 I'm Mujahid Ali
 
-<!--
-**Mujahidali1232/Mujahidali1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Graduate | 💻 Junior Web Developer  
+📍 Pakistan  
+🚀 Passionate about building simple & functional web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- IT graduate with internship experience in **Web Development**
+- Strong interest in **Frontend & Backend Development**
+- Currently improving my **logic building & project structure**
+- Looking for **internship / junior-level opportunities**
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React
+- **Backend:** PHP (MySQLi)
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📌 Projects
+- 📝 Blog Management System (PHP, MySQL, AJAX)
+- 💬 Group Chat Application
+- 📧 Email Box System
+- 🌿 Nature Blog Website
+- ⚛️ React UI Projects
+
+👉 Check my repositories for details & code
+
+---
+
+## 📈 What I’m Learning Now
+- Better JavaScript logic
+- React & component-based architecture
+- Clean code & best practices
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/Mujahidali1232
+- Email: aleemujahid445@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and give feedback!
