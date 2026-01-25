@@ -1,6 +1,6 @@
 # Hi 👋 I'm Mujahid Ali
 
-🎓 IT Graduate | 💻 Junior Web Developer  
+🎓 IT Graduate |💻 Senior Frontend Developer
 📍 Pakistan  
 🚀 Passionate about building simple & functional web applications
 
